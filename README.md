@@ -34,3 +34,21 @@ const King = {
   tools: ["VS Code", "Local Storage", "Tailwind", "Canvas", "AI Prompt Engineering"],
   motto: "No backend? No problem. I build empires even in static files.",
 };
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=F72C2C&center=true&vCenter=true&width=500&lines=👑+King+of+Creation+🐦‍🔥;Empire+Builder+🔥;I+Think+It.+I+Build+It.+I+Finish+It." />
+</h1>
+
+<p align="center">✨ Ideas are my soldiers. Code is my kingdom. Execution is my crown. ✨</p>
+
+---
+
+## 🐦‍🔥 About Me
+```diff
++ 🔥 I build what others only dream about
++ 🧠 I think like a king and work like a machine
++ 🚀 Turning imagination into code everyday
++ 🎯 No backend? No problem. I create empires with frontend only.
++ 🛠️ I finish what I start, always.

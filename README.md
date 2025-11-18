@@ -27,15 +27,6 @@
 
 ---
 
-## 🔥 Tech Stack I'm Forging
-```js
-const King = {
-  languages: ["JavaScript", "HTML", "CSS"],
-  tools: ["VS Code", "Local Storage", "Tailwind", "Canvas", "AI Prompt Engineering"],
-  motto: "No backend? No problem. I build empires even in static files.",
-};
-
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=F72C2C&center=true&vCenter=true&width=500&lines=👑+King+of+Creation+🐦‍🔥;Empire+Builder+🔥;I+Think+It.+I+Build+It.+I+Finish+It." />
@@ -52,3 +43,14 @@ const King = {
 + 🚀 Turning imagination into code everyday
 + 🎯 No backend? No problem. I create empires with frontend only.
 + 🛠️ I finish what I start, always.
+
+
+## 🔥 Tech Stack I'm Forging
+```js
+const King = {
+  languages: ["JavaScript", "HTML", "CSS"],
+  tools: ["VS Code", "Local Storage", "Tailwind", "Canvas", "AI Prompt Engineering"],
+  motto: "No backend? No problem. I build empires even in static files.",
+};
+
+

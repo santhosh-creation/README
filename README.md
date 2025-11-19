@@ -45,12 +45,4 @@
 + 🛠️ I finish what I start, always.
 
 
-## 🔥 Tech Stack I'm Forging
-```js
-const King = {
-  languages: ["JavaScript", "HTML", "CSS"],
-  tools: ["VS Code", "Local Storage", "Tailwind", "Canvas", "AI Prompt Engineering"],
-  motto: "No backend? No problem. I build empires even in static files.",
-};
-
 
